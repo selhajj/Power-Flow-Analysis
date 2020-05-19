@@ -1,2 +1,3 @@
 # Power-Flow-Analysis
-Power Flow Analysis solved for a 3 Bus Power System
+A simple script which solves voltages and some reactive power values for a 3 bus power system with a slack bus, generation bus and a load bus
+I created this script because I was bothered about the fact that a power simulation software can solve all of these values in seconds, but that i didnt have the knowledge of the algorithm and equations the software is using. Feel free to simulate in PSS/E or any other simulator amd the vslues are roughly identical. One could easily add upon or expand this software by creating a selection for number of buses, types of buses, etc. I leave that project open to anyone who desires. 
